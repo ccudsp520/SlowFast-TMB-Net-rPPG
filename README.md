@@ -2,7 +2,7 @@
 ## Multiple Temporal Scale Network for Remote PPG and Heart Rate Estimation from Facial Video
 ## Paper
 
-#### [Dao Q. Le], [Wen-Nung Lie], [Po-Han Huang], [Guan-Hao Fu], [Anh Nguyen Thi Quynh]
+#### Dao Q. Le, Wen-Nung Lie, Po-Han Huang, Guan-Hao Fu, Anh Nguyen Thi Quynh
 
 #### Link: 
 
