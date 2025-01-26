@@ -1,18 +1,12 @@
 
 ## Multiple Temporal Scale Network for Remote PPG and Heart Rate Estimation from Facial Video
-## Paper
-
 #### Dao Q. Le, Wen-Nung Lie, Po-Han Huang, Guan-Hao Fu, Anh Nguyen Thi Quynh
 
 #### Link: 
 
-## New Pre-Trained Model (Updated March 2023)
-
-Please refer to [rPPG-Toolbox](https://github.com/ubicomplab/rPPG-Toolbox) 
-
 #### Abstract
 
-This paper presents a deep-learning-based multi-temporal-scale network for remote photoplethysmogram (rPPG) signal estimation from a facial video sequence, which is subsequently used to derive the physiological parameters, e.g., the heart rate. Our network consists of three 2D-convolutional streams, where one spatial stream is designed for the extraction of spatial attention mask and two temporal streams are responsible for the capturing of temporal dependency modeling from the same video input with different frame rates. The attention masks from the spatial stream provides the required fusion information to correctly enhance temporal streams’ feature maps. By leveraging rich temporal dependency information, our network can adeptly comprehend the video’s spatio-temporal structure for accurate rPPG signal estimation. Experimental results on four public datasets (PURE, MMSE-HR, UBFC-rPPG, and MAHNOB-HCI) show that the proposed method,
+This paper presents a deep-learning-based multi-temporal-scale network for remote photoplethysmogram (rPPG) signal estimation from a facial video sequence, which is subsequently used to derive the physiological parameters, e.g., the heart rate. Our network consists of three 2D-convolutional streams, where one spatial stream is designed for the extraction of spatial attention mask and two temporal streams are responsible for the capturing of temporal dependency modeling from the same video input with different frame rates. The attention masks from the spatial stream provides the required fusion information to correctly enhance temporal streams’ feature maps. By leveraging rich temporal dependency information, our network can adeptly comprehend the video’s spatio-temporal structure for accurate rPPG signal estimation. Experimental results on four public datasets (PURE, MMSE-HR, UBFC-rPPG, and MAHNOB-HCI) show that the proposed method, compared with state-of-the-art methods, reached competitive or even superior performances, showcasing our network’s learning capability. 
 <!-- 
 ## Citation 
 
