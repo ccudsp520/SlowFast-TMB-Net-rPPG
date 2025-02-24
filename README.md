@@ -1,6 +1,6 @@
 
 ## Multiple Temporal Scale Network for Remote PPG and Heart Rate Estimation from Facial Video
-#### Dao Q. Le, Wen-Nung Lie, Po-Han Huang, Guan-Hao Fu, Anh Nguyen Thi Quynh
+#### Dao Q. Le, Wen-Nung Lie, Po-Han Huang, Guan-Hao Fu, Quynh Nguyen Quang Nhu
 
 #### Link: 
 
@@ -11,12 +11,12 @@ This paper presents a deep-learning-based multi-temporal-scale network for remot
 ## Citation 
 
 ``` bash
-@article{lie2024two,
-  title={A Two-stream Deep-learning Network for Heart Rate Estimation from Facial Image Sequence},
-  author={Lie, Wen-Nung and Le, Dao Q and Huang, Po-Han and Fu, Guan-Hao and Anh, Quynh Nguyen Thi and Nhu, Quynh Nguyen Quang},
-  journal={IEEE Sensors Journal},
-  year={2024},
-  publisher={IEEE}
+@article{lie2025two,
+  title={ Multiple Temporal Scale Network for Remote PPG and Heart Rate Estimation from Facial Video},
+  author={Dao Q. Le, Wen-Nung Lie, Po-Han Huang, Guan-Hao Fu, Quynh Nguyen Quang Nhu},
+  journal={XX},
+  year={2025},
+  publisher={XX}
 }
 ``` -->
 ## Installation
