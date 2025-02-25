@@ -1,24 +1,26 @@
 
 ## Multiple Temporal Scale Network for Remote PPG and Heart Rate Estimation from Facial Video
-#### Dao Q. Le, Wen-Nung Lie, Po-Han Huang, Guan-Hao Fu, Quynh Nguyen Quang Nhu
+#### Dao Q. Le, Wen-Nung Lie*, Po-Han Huang, Guan-Hao Fu, Quynh Nguyen Quang Nhu
 
 #### Link: 
 
 #### Abstract
 
-This paper presents a deep-learning-based multi-temporal-scale network for remote photoplethysmogram (rPPG) signal estimation from a facial video sequence, which is subsequently used to derive the physiological parameters, e.g., the heart rate. Our network consists of three 2D-convolutional streams, where one spatial stream is designed for the extraction of spatial attention mask and two temporal streams are responsible for the capturing of temporal dependency modeling from the same video input with different frame rates. The attention masks from the spatial stream provides the required fusion information to correctly enhance temporal streams’ feature maps. By leveraging rich temporal dependency information, our network can adeptly comprehend the video’s spatio-temporal structure for accurate rPPG signal estimation. Experimental results on four public datasets (PURE, MMSE-HR, UBFC-rPPG, and MAHNOB-HCI) show that the proposed method, compared with state-of-the-art methods, reached competitive or even superior performances, showcasing our network’s learning capability. 
-<!-- 
+  This paper presents a deep-learning-based multi-temporal-scale network for remote photoplethysmogram (rPPG) signal estimation from a facial video sequence, which is subsequently used to derive the physiological parameters, e.g., the heart rate. Our network consists of three 2D-convolutional streams, where one spatial stream is designed for the extraction of spatial attention mask and two temporal streams are Responsible for the capturing of temporal dependency modeling from the same video input with different frame rates. The attention masks from The spatial stream provides the required fusion information to correctly enhance the temporal streams’ feature maps. By leveraging rich temporal dependency information, our network can adeptly comprehend the video’s spatio-temporal structure for accurate rPPG signal estimation. Experimental results on four public datasets (PURE, MMSE-HR, UBFC-rPPG, and MAHNOB-HCI) show that the proposed method, compared We achieved competitive or even superior performances compared with state-of-the-art methods, showcasing our network’s learning capability.
+_Index Terms_—remote PPG, facial video sequence, heart rate estimation, multiple temporal scale network, deep-learning.
+
 ## Citation 
 
 ``` bash
 @article{lie2025two,
   title={ Multiple Temporal Scale Network for Remote PPG and Heart Rate Estimation from Facial Video},
   author={Dao Q. Le, Wen-Nung Lie, Po-Han Huang, Guan-Hao Fu, Quynh Nguyen Quang Nhu},
-  journal={XX},
+  journal={Biomedical Signal Processing and Control XX},
   year={2025},
   publisher={XX}
 }
-``` -->
+```
+
 ## Installation
 1. This project is developed using >= python 3.10 on Ubuntu 22.04.3! NVIDIA GPUs are needed. We recommend you to use an [Anaconda](https://www.anaconda.com/) virtual environment.
 
